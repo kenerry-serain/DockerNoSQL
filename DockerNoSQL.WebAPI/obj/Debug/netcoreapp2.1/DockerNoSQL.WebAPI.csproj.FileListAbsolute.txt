@@ -1,0 +1,14 @@
+/home/kenerry/workspace/DockerNoSQL/DockerNoSQL.WebAPI/bin/Debug/netcoreapp2.1/DockerNoSQL.WebAPI.deps.json
+/home/kenerry/workspace/DockerNoSQL/DockerNoSQL.WebAPI/bin/Debug/netcoreapp2.1/DockerNoSQL.WebAPI.runtimeconfig.json
+/home/kenerry/workspace/DockerNoSQL/DockerNoSQL.WebAPI/bin/Debug/netcoreapp2.1/DockerNoSQL.WebAPI.runtimeconfig.dev.json
+/home/kenerry/workspace/DockerNoSQL/DockerNoSQL.WebAPI/bin/Debug/netcoreapp2.1/DockerNoSQL.WebAPI.dll
+/home/kenerry/workspace/DockerNoSQL/DockerNoSQL.WebAPI/bin/Debug/netcoreapp2.1/DockerNoSQL.WebAPI.pdb
+/home/kenerry/workspace/DockerNoSQL/DockerNoSQL.WebAPI/obj/Debug/netcoreapp2.1/DockerNoSQL.WebAPI.csprojAssemblyReference.cache
+/home/kenerry/workspace/DockerNoSQL/DockerNoSQL.WebAPI/obj/Debug/netcoreapp2.1/DockerNoSQL.WebAPI.csproj.CoreCompileInputs.cache
+/home/kenerry/workspace/DockerNoSQL/DockerNoSQL.WebAPI/obj/Debug/netcoreapp2.1/DockerNoSQL.WebAPI.RazorAssemblyInfo.cache
+/home/kenerry/workspace/DockerNoSQL/DockerNoSQL.WebAPI/obj/Debug/netcoreapp2.1/DockerNoSQL.WebAPI.RazorAssemblyInfo.cs
+/home/kenerry/workspace/DockerNoSQL/DockerNoSQL.WebAPI/obj/Debug/netcoreapp2.1/DockerNoSQL.WebAPI.AssemblyInfoInputs.cache
+/home/kenerry/workspace/DockerNoSQL/DockerNoSQL.WebAPI/obj/Debug/netcoreapp2.1/DockerNoSQL.WebAPI.AssemblyInfo.cs
+/home/kenerry/workspace/DockerNoSQL/DockerNoSQL.WebAPI/obj/Debug/netcoreapp2.1/DockerNoSQL.WebAPI.RazorTargetAssemblyInfo.cache
+/home/kenerry/workspace/DockerNoSQL/DockerNoSQL.WebAPI/obj/Debug/netcoreapp2.1/DockerNoSQL.WebAPI.dll
+/home/kenerry/workspace/DockerNoSQL/DockerNoSQL.WebAPI/obj/Debug/netcoreapp2.1/DockerNoSQL.WebAPI.pdb

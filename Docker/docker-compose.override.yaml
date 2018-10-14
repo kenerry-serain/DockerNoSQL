@@ -1,0 +1,15 @@
+version: '3.3'
+
+services:
+  dockernosql.webapi:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - 8080:80
+
+  nosql.database:
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: root
+      ME_CONFIG_MONGODB_ADMINPASSWORD: 123Aa321
+    ports:
+      - 27017:27017

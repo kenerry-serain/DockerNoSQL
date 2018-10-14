@@ -1,0 +1,22 @@
+version: '3.3'
+
+networks:
+  dockernosql-network:
+    driver: bridge
+
+services:
+  dockernosql.webapi:
+    image: dockernosql.webapi
+    build:
+      context: /home/kenerry/workspace/DockerNoSQL/DockerNoSQL.WebAPI
+      dockerfile: /Dockerfile
+    networks:
+      - dockernosql-network
+    depends_on:
+      - nosql.database
+
+  nosql.database:
+    image: mongo
+    restart: always
+    networks:
+    - dockernosql-network
